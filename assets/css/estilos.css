@@ -5,15 +5,15 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/fondo.jpg");
+  background-image: url("../img/ybg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position: center;
 }
 
 /* Mis trabajos */
 
-#trabajos .image-top {
+#portafolio .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -35,5 +35,4 @@ body {
   .navbar-brand{
     width: 100px;
   }
-
 }
